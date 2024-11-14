@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "month": "May",
+    "CL": 0,
+    "PL": 0
+  },
+  {
+    "id": 2,
+    "month": "June",
+    "CL": 3,
+    "PL": 0
+  },
+  {
+    "id": 3,
+    "month": "July",
+    "CL": 0,
+    "PL": 3
+  },
+  {
+    "id": 4,
+    "month": "August",
+    "CL": 0,
+    "PL": 3
+  },
+  {
+    "id": 5,
+    "month": "September",
+    "CL": 1,
+    "PL": 0
+  },
+  { "id": 6, "month": "October", "CL": 1, "PL": 0 },
+  {
+    "id": 7,
+    "month": "November",
+    "CL": 1,
+    "PL": 0
+  }
+]
